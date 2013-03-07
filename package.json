@@ -1,0 +1,14 @@
+{
+  "name": "fpddir",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Federal Reserve E-Payments Routing Directory",
+  "dependencies": {
+    "JSONStream": "0.4.3",
+    "split": "0.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shtylman/fpddir.git"
+  },
+}
